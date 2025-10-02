@@ -1,0 +1,14 @@
+# Archivos de sistema de macOS
+.DS_Store
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Resultados de outputs (si no quieres subir imágenes)
+outputs/*.png
+
