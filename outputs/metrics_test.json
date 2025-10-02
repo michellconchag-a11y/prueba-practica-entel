@@ -1,0 +1,25 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.7443270683288574,
+  "roc_auc": 0.8066569908971222,
+  "pr_auc": 0.24222495046505854,
+  "f1": 0.3859964093357271,
+  "precision": 0.2914859002169197,
+  "recall": 0.5712008501594049,
+  "n_train": 99999,
+  "n_valid": 99398,
+  "n_test": 98899,
+  "n_features": 43,
+  "dropped_columns": [
+    "date_of_last_rech_data",
+    "total_rech_data",
+    "max_rech_data",
+    "count_rech_2g",
+    "count_rech_3g",
+    "av_rech_amt_data",
+    "arpu_3g",
+    "arpu_2g",
+    "night_pck_user",
+    "fb_user"
+  ]
+}
