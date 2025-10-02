@@ -7,7 +7,7 @@ Este repositorio contiene la resolución de la prueba práctica
 - `scripts/` → scripts reproducibles (part1_fill_answers.py`, `part2_train_model_xgb.py`)
 - `outputs/` → métricas, gráficos y predicciones generada
 - `respuestas.txt` → respuestas a las preguntas 1 a 4 de la primera parte
-- `README.md` → este archiov
+- `README.md` → este archivo
 
 ## Flujo de trabajo
 1. **Parte 1 (EDA):** limpieza, análisis exploratorio y respuesta a preguntas descriptivas.
